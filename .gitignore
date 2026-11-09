@@ -1,0 +1,17 @@
+# 运行产物（用户本地数据，不进仓库）
+probe_report.json
+export_result.json
+classify_report.json
+imported_sessions.json
+索引总表.md
+chatgpt对话/
+
+# Python / Node
+__pycache__/
+*.pyc
+node_modules/
+
+# 系统
+.DS_Store
+Thumbs.db
+tools/
